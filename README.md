@@ -50,7 +50,3 @@ I'm a MERN Stack Developer with a proven track record of creating user-friendly 
 - 📧 Email: [irfan.manzoor.xyz@gmail.com](mailto:irfan.manzoor.xyz@gmail.com) ✉️
 - 💼 LinkedIn: [linkedin.com/in/irfan-manzoor](https://www.linkedin.com/in/irfan-manzoor-836345295/)
 - 🖥️ GitHub: [github.com/92IRFAN](https://github.com/92IRFAN)
-
----
-
-✨ **"Let's collaborate and create something amazing!"**
