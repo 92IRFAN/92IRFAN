@@ -1,6 +1,6 @@
 # Hi 👋, I'm Irfan Manzoor!
 
-## 🌟 MERN Stack Developer
+## MERN Stack Developer
 
 I'm a MERN Stack Developer with a proven track record of creating user-friendly and performant web applications. I specialize in **React.js** for front-end development and **Node.js** for building robust backends. Let's collaborate to turn innovative ideas into reality!
 
@@ -45,7 +45,7 @@ I'm a MERN Stack Developer with a proven track record of creating user-friendly 
 
 ---
 
-## 📞 Contact Me
+## Connect with me:
 
 - 📧 Email: [irfan.manzoor.xyz@gmail.com](mailto:irfan.manzoor.xyz@gmail.com) ✉️
 - 💼 LinkedIn: [linkedin.com/in/irfan-manzoor](https://www.linkedin.com/in/irfan-manzoor-836345295/)
