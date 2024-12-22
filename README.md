@@ -42,7 +42,7 @@ I'm a MERN Stack Developer with a proven track record of creating user-friendly 
 - **Tech Stack:** React, react-router-dom, context-api
 - A React project with global state management using Context API, featuring full cart functionality including add, remove, and adjust item quantities.
 
-### [🔑 Contact Form](https://signinsignup.tiiny.site/)
+### [🔑 Auth Form](https://signinsignup.tiiny.site/)
 - **Tech Stack:** React, Material UI, Firebase
 - Developed a responsive contact form with input validation using React Hook Form.
 - Implemented Firebase for user authentication and Material UI for enhanced UI design.
