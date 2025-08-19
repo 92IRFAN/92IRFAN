@@ -30,7 +30,7 @@ I'm a MERN Stack Developer with a proven track record of creating user-friendly 
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" height="40"/>
 </p>
 <p align="left">
-  <img src="URL_OF_YOUR_CHOICE.svg" alt="MySQL" height="40"/>
+  <img src="https://toppng.com/uploads/preview/mysql-logo-png-image-11660514413jvwkcjh4av.png" alt="MySQL" height="40"/>
 </p>
 
 ---
