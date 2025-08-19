@@ -28,8 +28,6 @@ I'm a MERN Stack Developer with a proven track record of creating user-friendly 
 ### Database
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" height="40"/>
-</p>
-<p align="left">
   <img src="https://toppng.com/uploads/preview/mysql-logo-png-image-11660514413jvwkcjh4av.png" alt="MySQL" height="40"/>
 </p>
 
