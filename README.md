@@ -29,6 +29,9 @@ I'm a MERN Stack Developer with a proven track record of creating user-friendly 
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" height="40"/>
 </p>
+<p align="left">
+  <img src="URL_OF_YOUR_CHOICE.svg" alt="MySQL" height="40"/>
+</p>
 
 ---
 
