@@ -34,13 +34,13 @@ I'm a MERN Stack Developer with a proven track record of creating user-friendly 
 
 ## 🏆 Projects
 
+### [📚 Online Bookstore Management System](https://bms-client-alpha.vercel.app)
+- **Tech Stack:** MERN (MongoDB, Express.js, React, Node.js), Redux Toolkit, Tailwind CSS, Cloudinary, Stripe
+- A full-stack web application for managing an online bookstore with both user and admin dashboards. It includes authentication, book browsing, detailed book pages, cart and checkout, order management, and secure Stripe payments. The admin panel enables book management (CRUD), order tracking, customer management, and sales analytics.
+
 ### [⛅ Weather App](https://getweather.tiiny.site/)
 - **Tech Stack:** React
 - Fetched real-time weather data using external APIs to display current weather conditions.
-
-### [🛒 Shopping Cart](https://shopping-cart-pearl-eta.vercel.app/)
-- **Tech Stack:** React, react-router-dom, context-api
-- A React project with global state management using Context API, featuring full cart functionality including add, remove, and adjust item quantities.
 
 ### [🔑 Auth Form](https://signinsignup.tiiny.site/)
 - **Tech Stack:** React, Material UI, Firebase
