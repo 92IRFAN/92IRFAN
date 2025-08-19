@@ -36,7 +36,9 @@ I'm a MERN Stack Developer with a proven track record of creating user-friendly 
 
 ### [📚 Online Bookstore Management System](https://bms-client-alpha.vercel.app)
 - **Tech Stack:** MERN (MongoDB, Express.js, React, Node.js), Redux Toolkit, Tailwind CSS, Cloudinary, Stripe
-- A full-stack web application for managing an online bookstore with both user and admin dashboards. It includes authentication, book browsing, detailed book pages, cart and checkout, order management, and secure Stripe payments. The admin panel enables book management (CRUD), order tracking, customer management, and sales analytics.
+- A full-stack web application for managing an online bookstore with user & admin dashboards.
+- Features include user authentication, book browsing, detailed book pages, cart & checkout, order management, and secure payments (Stripe).
+- Admin dashboard provides book management (CRUD), order tracking, customer management, and sales analytics.
 
 ### [⛅ Weather App](https://getweather.tiiny.site/)
 - **Tech Stack:** React
